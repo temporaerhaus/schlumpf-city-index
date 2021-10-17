@@ -85,8 +85,8 @@ Changes from 2020. ~~Strikethrough~~ mean deletions, *new items* are highlighted
   * Anteil emissionsarme Busse im ÖPNV ~~(Elektro-, Hybrid-, Bioerdgas-, Wasserstoffbusse, sonstige emissionsarme Busse)~~
   * ~~Weitere Beschaffung emissionsarmer Busse~~ *Geplante Neuanschaffungen*
 * ~~Smart Grid und Smart Meter~~
- * ~~Smart Grid-Projekte~~
- * ~~Smart Meter-Projekte~~ (siehe Energieloesungen oben)
+  * ~~Smart Grid-Projekte~~
+  * ~~Smart Meter-Projekte~~ (siehe Energieloesungen oben)
 * Weitere Pilotprojekte
 
 ## Mobilität
