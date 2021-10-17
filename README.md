@@ -3,4 +3,5 @@ Machine-readable variant of BITKOM's "smart city index", hopefully to get some m
 
 ## 2021 Index
 
-* [2021/index.md](2021/index.md)
+* [Overview](2021/index.md)
+* Changes in criteria [from 2020](2021/criteria_diff2020.md)
