@@ -7,7 +7,7 @@
  * [05_mobilitaet.csv](05_mobilitaet.csv)
  * [06_gesellschaft.csv](06_gesellschaft.csv)
 
-In 2021, BITKOM apparently changed the rating criteria again. They are:
+In 2021, BITKOM apparently changed the rating criteria again ([see diff from 2020](criteria_diff2020.md)). They are:
 
 ## Verwaltung
 * Interne Prozesse
