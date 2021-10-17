@@ -9,4 +9,4 @@ Machine-readable variant of BITKOM's "smart city index", hopefully to get some m
 
 ## 2020 Index
 * [Original PDF](https://www.bitkom.org/sites/default/files/2020-10/201009_smart-city-index_gesamt.pdf) ([Archived version](https://web.archive.org/web/20201028022700/https://www.bitkom.org/sites/default/files/2020-10/201009_smart-city-index_gesamt.pdf))
-* [Overvies](2020/index.md)
+* [Overview](2020/index.md)
