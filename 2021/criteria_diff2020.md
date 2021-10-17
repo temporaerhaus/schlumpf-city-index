@@ -27,19 +27,23 @@ Changes from 2020. ~~Strikethrough~~ mean deletions, *new items* are highlighted
 * ~~Bürgerinformationen~~ Website
   * ~~Stadt-Website:~~ Informationsgehalt
   * ~~Stadt-Website:~~ Benutzerfreundlichkeit (Aufbau, Design, Technisches)
-* *Social Media*
-  * *Facebook (offizieller Account, Aktualität der Beiträge)*
-  * *Instagram (offizieller Account, Aktualität der Beiträge)*
-  * *Twitter (offizieller Account, Aktualität der Beiträge)*
-  * *Youtube (offizieller Account, Aktualität der Beiträge)*
+* Social Media
+  * Facebook (offizieller Account, Aktualität der Beiträge)
+  * Instagram (offizieller Account, Aktualität der Beiträge)
+  * Twitter (offizieller Account, Aktualität der Beiträge)
+  * Youtube (offizieller Account, Aktualität der Beiträge)
 * *Bevölkerungsanliegen*
   * Chatbot/Chatfunktion
   * Einheitliche Behördennummer
   * Mängelmelder (Onlineformular,App)
+* ~City-App~
+  * ~Vorhandensein offizieller City-App~
+  * ~Bewertung offizieller City-App~
+  * ~Funktionen offizieller City-App (News, Bürgerservice, Umwelt, Public Safety, Problemmeldungen, Verkehr, Gesundheit, Inklusion, Tourismus und Kultur)~
 * *Serviceportal*
   * *Angebot*
   * *Nutzungsfreundlichkeit*
-* *Weitere Pilotprojekte*
+* Weitere Pilotprojekte
 
 ## IT- und Kommunikation
 * Breitband
