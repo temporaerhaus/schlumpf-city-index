@@ -10,3 +10,6 @@ Machine-readable variant of BITKOM's "smart city index", hopefully to get some m
 ## 2020 Index
 * [Original PDF](https://www.bitkom.org/sites/default/files/2020-10/201009_smart-city-index_gesamt.pdf) ([Archived version](https://web.archive.org/web/20201028022700/https://www.bitkom.org/sites/default/files/2020-10/201009_smart-city-index_gesamt.pdf))
 * [Overview](2020/index.md)
+
+## 2019 Index
+* [Original PDF](https://www.bitkom.org/sites/default/files/2020-04/200416_sb_smart-city-index-1.pdf) ([Archived version](https://web.archive.org/web/20210814085615/https://bitkom.org/sites/default/files/2020-04/200416_sb_smart-city-index-1.pdf))
