@@ -1,11 +1,11 @@
 # 2021 Smart City Index
 
- * [1_gesamtergebnisse.csv](1_gesamtergebnisse.csv)
- * [2_verwaltung.csv](2_verwaltung.csv)
- * [3_it-_und_kommunikation.csv](3_it-_und_kommunikation.csv)
- * [4_energie_und_umwelt.csv](4_energie_und_umwelt.csv)
- * [5_mobilitaet.csv](5_mobilitaet.csv)
- * [6_gesellschaft.csv](6_gesellschaft.csv)
+ * [01_gesamtergebnisse.csv](01_gesamtergebnisse.csv)
+ * [02_verwaltung.csv](02_verwaltung.csv)
+ * [03_it-_und_kommunikation.csv](03_it-_und_kommunikation.csv)
+ * [04_energie_und_umwelt.csv](04_energie_und_umwelt.csv)
+ * [05_mobilitaet.csv](05_mobilitaet.csv)
+ * [06_gesellschaft.csv](06_gesellschaft.csv)
 
 In 2021, BITKOM apparently changed the rating criteria again. They are:
 
