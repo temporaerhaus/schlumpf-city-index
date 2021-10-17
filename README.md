@@ -3,5 +3,6 @@ Machine-readable variant of BITKOM's "smart city index", hopefully to get some m
 
 ## 2021 Index
 
+* [Original PDF](https://www.bitkom.org/sites/default/files/2021-10/2021-09-30-smart-city-index.pdf?mtm_campaign=smart-city-index-pdf-2021) ([Archived version](https://web.archive.org/web/20211009042146/https://www.bitkom.org/sites/default/files/2021-10/2021-09-30-smart-city-index.pdf?mtm_campaign=smart-city-index-pdf-2021))
 * [Overview](2021/index.md)
 * Changes in criteria [from 2020](2021/criteria_diff2020.md)
